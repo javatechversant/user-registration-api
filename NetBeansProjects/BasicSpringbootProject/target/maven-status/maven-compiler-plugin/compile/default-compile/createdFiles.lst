@@ -1,2 +1,6 @@
-com/example/BasicApplication.class
-com/example/Swaggerconfig.class
+com/product/swaggerconfig/Swaggerconfig.class
+com/product/service/IProductService.class
+com/product/config/BasicApplication.class
+com/product/model/Product.class
+com/product/serviceImpl/ProductService.class
+com/product/controller/ProductController.class

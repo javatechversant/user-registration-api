@@ -1,6 +1,6 @@
-/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/example/Swaggerconfig.java
-/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/example/ProductController.java
-/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/example/BasicApplication.java
-/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/example/ProductService.java
-/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/example/Product.java
-/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/example/IProductService.java
+/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/product/config/BasicApplication.java
+/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/product/controller/ProductController.java
+/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/product/model/Product.java
+/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/product/swaggerconfig/Swaggerconfig.java
+/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/product/service/IProductService.java
+/home/parvathi/NetBeansProjects/BasicSpringbootProject/src/main/java/com/product/serviceImpl/ProductService.java
